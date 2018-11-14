@@ -8,3 +8,5 @@ Test for CircleCI continous delivery pipeline with python and also integration w
 
 - register on CircleCI : https://circleci.com with your github/bitbucket account
 - register in coveralls.io with the same github/bitbucket account
+
+if you can see those 2 labels up top, that means this succeded
